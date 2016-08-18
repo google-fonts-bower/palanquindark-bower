@@ -1,0 +1,17 @@
+{
+    "name": "palanquindark-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Pria Ravichandran"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/palanquindark-bower.git"
+    },
+    "description": "Palanquin Dark font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
